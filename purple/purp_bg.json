@@ -1,6 +1,6 @@
 {
-    "name": "Vanna V3",
-    "description": "A dark purple theme with Vanna Wayne background",
+    "name": "Vanna V3 AMOLED",
+    "description": "A high-contrast, glossy AMOLED purple theme with Vanna Wayne background",
     "authors": [
         {
             "name": "@mahroom",
@@ -8,145 +8,72 @@
         }
     ],
     "semanticColors": {
-      "HEADER_PRIMARY": [
-          "#D572D0"
-      ],
-      "HEADER_SECONDARY": [
-          "#D572D0"
-      ],
-      "TEXT_NORMAL": [
-          "#FFE8FE"
-      ],
-      "TEXT_MUTED": [
-          "#5E5E5E"
-      ],
-      "TEXT_LINK": [
-          "#EE8EE9"
-      ],
-      "INTERACTIVE_NORMAL": [
-          "#C599C3"
-      ],
-      "INTERACTIVE_HOVER": [
-          "#B988BC"
-      ],
-      "INTERACTIVE_ACTIVE": [
-          "#FDC5FA"
-      ],
-      "INTERACTIVE_MUTED": [
-          "#5F5160" 
-      ],
-      "BACKGROUND_PRIMARY": [
-          "#282828"
-      ],
-      "BACKGROUND_SECONDARY": [
-          "#222222"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-          "#222222"
-      ],
-      "BACKGROUND_TERTIARY": [
-          "#282828"
-      ],
-      "BACKGROUND_ACCENT": [
-          "#704A6E"
-      ],
-      "BACKGROUND_FLOATING": [
-          "#222222"
-      ],
-      "BACKGROUND_MOBILE_PRIMARY": [
-          "#222222"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY": [
-          "#222222"
-      ],
-      "BACKGROUND_NESTED_FLOATING": [
-          "#222222"
-      ],
-     
-      "BACKGROUND_MESSAGE_HOVER": [
-          "#292929"
-      ],
-      "BACKGROUND_MODIFIER_HOVER": [
-          "#292929"
-      ],
-      "BACKGROUND_MODIFIER_ACTIVE": [
-          "#7D427A"
-      ],
-      "BACKGROUND_MODIFIER_SELECTED": [
-          "#7D427A"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-          "#484848"
-      ],
-      "SCROLLBAR_THIN_THUMB": [
-          "#26273b"
-      ],
-      "SCROLLBAR_THIN_TRACK": [
-          "transparent"
-      ],
-      "SCROLLBAR_AUTO_THUMB": [
-          "#DAB3D8"
-      ],
-      "SCROLLBAR_AUTO_TRACK": [
-          "#DAB3D8"
-      ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-          "#242424"
-      ],
-      "CHANNELS_DEFAULT": [
-          "#9E769C"
-      ],
-      "TEXT_DANGER": [
-          "#FC0E61"
-      ],
-      "KEYBOARD": [
-          "#282828"
-      ],
-      "CHANNEL_ICON": [
-          "#C6B3C5"
-      ],
-      "CHAT_BACKGROUND": [
-          "#282828"
-      ],
-      "SPOILER_HIDDEN_BACKGROUND": [
-        "#4B4B4B"
-      ],
-      "SPOILER_REVEALED_BACKGROUND": [
-        "#5E5E5E"
-      ]
-  },
-  "rawColors": {
-      "PRIMARY_100": "#FDD8FB",
-      "PRIMARY_200": "#947592",
-      "PRIMARY_300": "#D572D0",
-      "PRIMARY_360": "#C272F0",
-      "PRIMARY_400": "#7114EE",
-      "PRIMARY_500": "#5F3A70",
-      "PRIMARY_600": "#282828",
-      "PRIMARY_630": "#2F2F2F",
-      "PRIMARY_660": "#2F2F2F",
-      "PRIMARY_700": "#282828",
-      "PRIMARY_800": "#282828",
-  
-      "BRAND_260": "#936195",
-      "BRAND_360": "#D096CF",
-      "BRAND_500": "#936195",
-      "BRAND_560": "#D096CF",
+      "HEADER_PRIMARY": ["#BF00FF"],
+      "HEADER_SECONDARY": ["#BF00FF"],
+      "TEXT_NORMAL": ["#FFE8FE"],
+      "TEXT_MUTED": ["#7A7A7A"],
+      "TEXT_LINK": ["#D96AF5"],
+      "INTERACTIVE_NORMAL": ["#A64DCC"],
+      "INTERACTIVE_HOVER": ["#8A37B3"],
+      "INTERACTIVE_ACTIVE": ["#F5D0FF"],
+      "INTERACTIVE_MUTED": ["#7A587C"],
+      "BACKGROUND_PRIMARY": ["#0C0C0C"],
+      "BACKGROUND_SECONDARY": ["#141414"],
+      "BACKGROUND_SECONDARY_ALT": ["#141414"],
+      "BACKGROUND_TERTIARY": ["#0C0C0C"],
+      "BACKGROUND_ACCENT": ["#4E2664"],
+      "BACKGROUND_FLOATING": ["#141414"],
+      "BACKGROUND_MOBILE_PRIMARY": ["#141414"],
+      "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
+      "BACKGROUND_NESTED_FLOATING": ["#141414"],
+      "BACKGROUND_MESSAGE_HOVER": ["#1A1A1A"],
+      "BACKGROUND_MODIFIER_HOVER": ["#1A1A1A"],
+      "BACKGROUND_MODIFIER_ACTIVE": ["#752EAB"],
+      "BACKGROUND_MODIFIER_SELECTED": ["#752EAB"],
+      "BACKGROUND_MODIFIER_ACCENT": ["#3E3E3E"],
+      "SCROLLBAR_THIN_THUMB": ["#2E1E44"],
+      "SCROLLBAR_THIN_TRACK": ["transparent"],
+      "SCROLLBAR_AUTO_THUMB": ["#C27FE6"],
+      "SCROLLBAR_AUTO_TRACK": ["#C27FE6"],
+      "CHANNELTEXTAREA_BACKGROUND": ["#1A1A1A"],
+      "CHANNELS_DEFAULT": ["#BC8FDB"],
+      "TEXT_DANGER": ["#FF0E6A"],
+      "KEYBOARD": ["#0C0C0C"],
+      "CHANNEL_ICON": ["#9D7FB0"],
+      "CHAT_BACKGROUND": ["#0C0C0C"],
+      "SPOILER_HIDDEN_BACKGROUND": ["#3B3B3B"],
+      "SPOILER_REVEALED_BACKGROUND": ["#5E5E5E"]
+    },
+    "rawColors": {
+      "PRIMARY_100": "#EBC6FF",
+      "PRIMARY_200": "#A163B1",
+      "PRIMARY_300": "#BF00FF",
+      "PRIMARY_360": "#B100F0",
+      "PRIMARY_400": "#9B00DB",
+      "PRIMARY_500": "#6B0082",
+      "PRIMARY_600": "#0C0C0C",
+      "PRIMARY_630": "#141414",
+      "PRIMARY_660": "#141414",
+      "PRIMARY_700": "#0C0C0C",
+      "PRIMARY_800": "#0C0C0C",
+      "BRAND_260": "#9D65A6",
+      "BRAND_360": "#B376D9",
+      "BRAND_500": "#9D65A6",
+      "BRAND_560": "#B376D9",
       "WHITE_500": "#F0C4FF",
-      "YELLOW_300": "#B569E0",
-      "GREEN_360": "#B569E0",
-      "RED_400": "#FC0E61"
-},
+      "YELLOW_300": "#8D48C9",
+      "GREEN_360": "#8D48C9",
+      "RED_400": "#FF0E6A"
+    },
     "spec": 2,
     "background": {
       "blur": 0,
       "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/purple/vanna1.PNG",
       "alpha": 0.9,
-      "color": "#282828"
-  
+      "color": "#0C0C0C"
     },
-    "plus":{
-        "version":"0",
-        "iconpack":"rosiecord-plumpy"
+    "plus": {
+        "version": "0",
+        "iconpack": "rosiecord-plumpy"
     }
 }

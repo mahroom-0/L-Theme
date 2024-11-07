@@ -1,0 +1,79 @@
+{
+    "name": "Vanna V3 Teal Cyan AMOLED",
+    "description": "A high-contrast, AMOLED theme with a teal and cyan color scheme, designed for readability and visual clarity.",
+    "authors": [
+        {
+            "name": "@mahroom",
+            "id": "614807913302851594"
+        }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMARY": ["#00FFC6"],
+      "HEADER_SECONDARY": ["#00FFC6"],
+      "TEXT_NORMAL": ["#E0FFFF"],
+      "TEXT_MUTED": ["#7D7D7D"],
+      "TEXT_LINK": ["#00D1FF"],
+      "INTERACTIVE_NORMAL": ["#00A7B3"],
+      "INTERACTIVE_HOVER": ["#008E99"],
+      "INTERACTIVE_ACTIVE": ["#00E1E1"],
+      "INTERACTIVE_MUTED": ["#4F6A70"],
+      "BACKGROUND_PRIMARY": ["#0C0C0C"],
+      "BACKGROUND_SECONDARY": ["#141414"],
+      "BACKGROUND_SECONDARY_ALT": ["#141414"],
+      "BACKGROUND_TERTIARY": ["#0C0C0C"],
+      "BACKGROUND_ACCENT": ["#1E4D4D"],
+      "BACKGROUND_FLOATING": ["#141414"],
+      "BACKGROUND_MOBILE_PRIMARY": ["#141414"],
+      "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
+      "BACKGROUND_NESTED_FLOATING": ["#141414"],
+      "BACKGROUND_MESSAGE_HOVER": ["#1A1A1A"],
+      "BACKGROUND_MODIFIER_HOVER": ["#1A1A1A"],
+      "BACKGROUND_MODIFIER_ACTIVE": ["#00787A"],
+      "BACKGROUND_MODIFIER_SELECTED": ["#00787A"],
+      "BACKGROUND_MODIFIER_ACCENT": ["#3E3E3E"],
+      "SCROLLBAR_THIN_THUMB": ["#1F3B3B"],
+      "SCROLLBAR_THIN_TRACK": ["transparent"],
+      "SCROLLBAR_AUTO_THUMB": ["#67D1D1"],
+      "SCROLLBAR_AUTO_TRACK": ["#67D1D1"],
+      "CHANNELTEXTAREA_BACKGROUND": ["#1A1A1A"],
+      "CHANNELS_DEFAULT": ["#86C7C7"],
+      "TEXT_DANGER": ["#FF4D4D"],
+      "KEYBOARD": ["#0C0C0C"],
+      "CHANNEL_ICON": ["#8FBFBF"],
+      "CHAT_BACKGROUND": ["#0C0C0C"],
+      "SPOILER_HIDDEN_BACKGROUND": ["#3B3B3B"],
+      "SPOILER_REVEALED_BACKGROUND": ["#5E5E5E"]
+    },
+    "rawColors": {
+      "PRIMARY_100": "#B2FFFF",
+      "PRIMARY_200": "#66CCCC",
+      "PRIMARY_300": "#00FFC6",
+      "PRIMARY_360": "#00E6B8",
+      "PRIMARY_400": "#00C1A1",
+      "PRIMARY_500": "#007979",
+      "PRIMARY_600": "#0C0C0C",
+      "PRIMARY_630": "#141414",
+      "PRIMARY_660": "#141414",
+      "PRIMARY_700": "#0C0C0C",
+      "PRIMARY_800": "#0C0C0C",
+      "BRAND_260": "#66CCCC",
+      "BRAND_360": "#00B8E6",
+      "BRAND_500": "#66CCCC",
+      "BRAND_560": "#00B8E6",
+      "WHITE_500": "#E0FFFF",
+      "YELLOW_300": "#00B8B8",
+      "GREEN_360": "#00B8B8",
+      "RED_400": "#FF4D4D"
+    },
+    "spec": 2,
+    "background": {
+      "blur": 0,
+      "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/purple/vanna1.PNG",
+      "alpha": 0.9,
+      "color": "#0C0C0C"
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "rosiecord-plumpy"
+    }
+}

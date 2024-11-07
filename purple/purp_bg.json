@@ -1,9 +1,9 @@
 {
-    "name": "PurpDark V3",
-    "description": "Same theme but with background! - Purpdark",
+    "name": "Vanna V3",
+    "description": "A dark purple theme with Vanna Wayne background",
     "authors": [
         {
-            "name": "@vorlie",
+            "name": "@mahroom",
             "id": "614807913302851594"
         }
     ],
@@ -140,7 +140,7 @@
     "spec": 2,
     "background": {
       "blur": 0,
-      "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/purple/vanna1%5B1%5D.png",
+      "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/purple/vanna1.PNG",
       "alpha": 0.9,
       "color": "#282828"
   

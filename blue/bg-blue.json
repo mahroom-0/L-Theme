@@ -183,7 +183,8 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/purple/vanna1.PNG",
-        "alpha": 0.63
+        "alpha": 0.63,
+        "blur": 2
     },
     "plus": {
         "version": 0,

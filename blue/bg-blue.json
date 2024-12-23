@@ -1,6 +1,6 @@
 {
     "name": "Clear-View",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm, with optimized performance.",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
     "authors": [
         {
             "name": "Mahroom",
@@ -29,9 +29,9 @@
             "#bdae931a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ffffff1a",
-            "#ffffff1a",
-            "#ffffff1a"
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#061428",
@@ -44,9 +44,9 @@
             "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#4a90e2",
-            "#4a90e2",
-            "#4a90e2"
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#ffffff1a",
@@ -94,9 +94,9 @@
             "#04122e"
         ],
         "CHANNELS_DEFAULT": [
-            "#ffffffb3",
-            "#ffffffb3",
-            "#ffffffb3"
+            "#ffffff99",
+            "#ffffff99",
+            "#ffffff99"
         ],
         "CHANNEL_ICON": [
             "#ffffff4d",
@@ -144,9 +144,9 @@
             "#ffffff0f"
         ],
         "TEXT_LINK": [
-            "#4a90e2",
-            "#4a90e2",
-            "#4a90e2"
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
         ],
         "TEXT_MUTED": [
             "#969696",
@@ -157,11 +157,6 @@
             "#ffffff",
             "#ffffff",
             "#ffffff"
-        ],
-        "TEXT_DANGER": [
-            "#ff5555",
-            "#ff5555",
-            "#ff5555"
         ]
     },
     "rawColors": {
@@ -181,10 +176,10 @@
         "PRIMARY_700": "#ffffff03",
         "PRIMARY_800": "#ffffff02",
         "PRIMARY_900": "#ffffff01",
-        "BRAND_260": "#4a90e2",
-        "BRAND_360": "#4a90e2cc",
-        "BRAND_500": "#4a90e299",
-        "BRAND_560": "#4a90e280"
+        "BRAND_260": "#ffffff",
+        "BRAND_360": "#ffffffcc",
+        "BRAND_500": "#ffffff99",
+        "BRAND_560": "#ffffff80"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/purple/vanna1.PNG",
@@ -196,11 +191,11 @@
         "customOverlays": true,
         "icons": {
             "ic_mic_neutral": "#ffffff4d",
-            "ic_mic_muted_neutral": "#ff55554d",
+            "ic_mic_muted_neutral": "#ffffff4d",
             "ic_soundboard": "#ffffff4d",
-            "ic_soundboard_muted": "#ff55554d",
+            "ic_soundboard_muted": "#ffffff4d",
             "ic_video": "#ffffff4d",
-            "ic_video_disabled": "#ff55554d"
+            "ic_video_disabled": "#ffffff4d"
         },
         "iconpack": "rosiecord-plumpy"
     },

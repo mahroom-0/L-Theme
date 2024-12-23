@@ -220,7 +220,7 @@
         ],
         "INFO_DANGER_FOREGROUND": [
             "#061428",
-            "#7eb3f0",
+            "#ffffff",
             "#000000"
         ],
         "INFO_DANGER_TEXT": [
@@ -235,13 +235,13 @@
         ],
         "INFO_HELP_FOREGROUND": [
             "#071e36",
-            "#dbeafa",
+            "#ffffff",
             "#000000"
         ],
         "INFO_HELP_TEXT": [
             "#dcddde",
             "#0a2848",
-            "#7eb3f0"
+            "#ffffff"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#0a2848",
@@ -250,7 +250,7 @@
         ],
         "INFO_POSITIVE_FOREGROUND": [
             "#071e36",
-            "#dbeafa",
+            "#ffffff",
             "#000000"
         ],
         "INFO_POSITIVE_TEXT": [
@@ -265,14 +265,14 @@
         ],
         "INFO_WARNING_FOREGROUND": [
             "#071e36",
-            "#dbeafa",
+            "#ffffff",
             "#000000"
         ],
         "INFO_WARNING_TEXT": [
             "#dcddde",
             "#0a2848",
             "#dcddde"
-        ],
+        ]
         "INTERACTIVE_ACTIVE": [
             "#ffffff",
             "#ffffff",

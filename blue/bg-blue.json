@@ -319,9 +319,14 @@
             "#ffffff80"
         ],
         "TEXT_LINK": [
-            "#83a598",
-            "#83a598",
-            "#83a598"
+            "#A020F0",
+            "#A020F0",
+            "#A020F0"
+        ],
+        "TEXT_LINK_LOW_SATURATION": [
+            "#6B8E23",
+            "#6B8E23",
+            "#6B8E23"
         ],
         "TEXT_POSITIVE": [
             "#b8bb26",
@@ -382,7 +387,7 @@
         "BRAND_560": "#ffffff80"
     },
     "background": {
-        "url": "https://images8.alphacoders.com/134/1349793.png",
+        "url": "https://mfiles.alphacoders.com/981/981348.jpg",
         "alpha": 0.63
     },
     "plus": {

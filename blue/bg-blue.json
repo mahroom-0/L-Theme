@@ -209,10 +209,11 @@
             "#dcddde"
         ],
         "HEADER_SECONDARY": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
-        ],
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ]
+
         "INFO_DANGER_BACKGROUND": [
             "#0a2848",
             "#dcddde",

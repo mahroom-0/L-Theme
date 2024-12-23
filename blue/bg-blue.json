@@ -183,8 +183,7 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/bg-white-girl.jpg",
-        "alpha": 0.63,
-        "blur": 0
+        "alpha": 0.63
     },
     "plus": {
         "version": 0,

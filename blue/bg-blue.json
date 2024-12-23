@@ -1,7 +1,6 @@
 {
     "name": "Clear-View",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm, with enhanced visual harmony and accessibility features.",
-    "version": "2.0",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm, with optimized performance.",
     "authors": [
         {
             "name": "Mahroom",
@@ -50,29 +49,29 @@
             "#4a90e2"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
+            "#ffffff1a",
+            "#ffffff1a",
+            "#ffffff1a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
             "#ffffff26",
             "#ffffff26",
             "#ffffff26"
         ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#ffffff1a",
+            "#ffffff1a",
+            "#ffffff1a"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
             "#ffffff33",
             "#ffffff33",
             "#ffffff33"
         ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#ffffff1f",
-            "#ffffff1f",
-            "#ffffff1f"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#ffffff40",
-            "#ffffff40",
-            "#ffffff40"
-        ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#ffffff14",
-            "#ffffff14",
-            "#ffffff14"
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
         ],
         "BACKGROUND_PRIMARY": [
             "#061428",
@@ -85,9 +84,9 @@
             "#242437"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0a1930",
-            "#0a1930",
-            "#0a1930"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
             "#04122e",
@@ -100,24 +99,24 @@
             "#ffffffb3"
         ],
         "CHANNEL_ICON": [
-            "#ffffff66",
-            "#ffffff66",
-            "#ffffff66"
+            "#ffffff4d",
+            "#ffffff4d",
+            "#ffffff4d"
         ],
         "CHAT_BACKGROUND": [
-            "#000000b3",
-            "#000000b3",
-            "#000000b3"
+            "#00000099",
+            "#00000099",
+            "#00000099"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#ffffffd9",
-            "#ffffffd9",
-            "#ffffffd9"
+            "#ffffffcc",
+            "#ffffffcc",
+            "#ffffffcc"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#ffffff14",
-            "#ffffff14",
-            "#ffffff14"
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff",
@@ -125,24 +124,24 @@
             "#ffffff"
         ],
         "INTERACTIVE_HOVER": [
-            "#ffffffd9",
-            "#ffffffd9",
-            "#ffffffd9"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#ffffff59",
-            "#ffffff59",
-            "#ffffff59"
-        ],
-        "INTERACTIVE_NORMAL": [
             "#ffffffcc",
             "#ffffffcc",
             "#ffffffcc"
         ],
+        "INTERACTIVE_MUTED": [
+            "#ffffff40",
+            "#ffffff40",
+            "#ffffff40"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffffb3",
+            "#ffffffb3",
+            "#ffffffb3"
+        ],
         "INPUT_BACKGROUND": [
-            "#ffffff14",
-            "#ffffff14",
-            "#ffffff14"
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
         ],
         "TEXT_LINK": [
             "#4a90e2",
@@ -150,9 +149,9 @@
             "#4a90e2"
         ],
         "TEXT_MUTED": [
-            "#ffffffa6",
-            "#ffffffa6",
-            "#ffffffa6"
+            "#969696",
+            "#969696",
+            "#969696"
         ],
         "TEXT_NORMAL": [
             "#ffffff",
@@ -163,21 +162,6 @@
             "#ff5555",
             "#ff5555",
             "#ff5555"
-        ],
-        "TEXT_SUCCESS": [
-            "#50fa7b",
-            "#50fa7b",
-            "#50fa7b"
-        ],
-        "SPOILER_HIDDEN_BACKGROUND": [
-            "#ffffff1a",
-            "#ffffff1a",
-            "#ffffff1a"
-        ],
-        "SPOILER_REVEALED_BACKGROUND": [
-            "#ffffff33",
-            "#ffffff33",
-            "#ffffff33"
         ]
     },
     "rawColors": {
@@ -191,61 +175,34 @@
         "PRIMARY_460": "#ffffff33",
         "PRIMARY_500": "#ffffff26",
         "PRIMARY_560": "#ffffff1a",
-        "PRIMARY_600": "#ffffff14",
-        "PRIMARY_630": "#ffffff0f",
-        "PRIMARY_660": "#ffffff0a",
-        "PRIMARY_700": "#ffffff05",
-        "PRIMARY_800": "#ffffff03",
+        "PRIMARY_600": "#ffffff0f",
+        "PRIMARY_630": "#ffffff0a",
+        "PRIMARY_660": "#ffffff05",
+        "PRIMARY_700": "#ffffff03",
+        "PRIMARY_800": "#ffffff02",
         "PRIMARY_900": "#ffffff01",
         "BRAND_260": "#4a90e2",
         "BRAND_360": "#4a90e2cc",
         "BRAND_500": "#4a90e299",
-        "BRAND_560": "#4a90e280",
-        "RED_400": "#ff5555",
-        "GREEN_400": "#50fa7b",
-        "YELLOW_400": "#f1fa8c"
+        "BRAND_560": "#4a90e280"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/purple/vanna1.PNG",
-        "alpha": 0.70,
-        "blur": 3,
-        "gradient": {
-            "angle": "45deg",
-            "colors": ["#04122e66", "#24243766"]
-        }
+        "alpha": 0.63,
+        "blur": 2
     },
     "plus": {
-        "version": 1,
+        "version": 0,
         "customOverlays": true,
-        "animations": {
-            "enabled": true,
-            "messages": {
-                "slideIn": true,
-                "duration": "0.3s",
-                "timing": "ease-out"
-            },
-            "transitions": {
-                "enabled": true,
-                "duration": "0.2s"
-            }
-        },
         "icons": {
-            "ic_mic_neutral": "#ffffff66",
-            "ic_mic_muted_neutral": "#ff555566",
-            "ic_soundboard": "#ffffff66",
-            "ic_soundboard_muted": "#ff555566",
-            "ic_video": "#ffffff66",
-            "ic_video_disabled": "#ff555566",
-            "ic_status_online": "#50fa7b",
-            "ic_status_idle": "#f1fa8c",
-            "ic_status_dnd": "#ff5555",
-            "ic_status_offline": "#ffffff4d"
+            "ic_mic_neutral": "#ffffff4d",
+            "ic_mic_muted_neutral": "#ff55554d",
+            "ic_soundboard": "#ffffff4d",
+            "ic_soundboard_muted": "#ff55554d",
+            "ic_video": "#ffffff4d",
+            "ic_video_disabled": "#ff55554d"
         },
-        "iconpack": "rosiecord-plumpy",
-        "customFonts": {
-            "primary": "Inter",
-            "code": "JetBrains Mono"
-        }
+        "iconpack": "rosiecord-plumpy"
     },
     "spec": 2
 }

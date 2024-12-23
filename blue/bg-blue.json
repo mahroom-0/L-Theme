@@ -123,7 +123,6 @@
             "#ffffff0f",
             "#ffffff0f"
         ],
-        
         "ELEVATION_HIGH": [
             "#0a2848",
             "#dcddde",
@@ -145,26 +144,25 @@
             "#000000"
         ],
         "FOCUS_PRIMARY": [
-            "#0a2848",
-            "#dcddde",
-            "#000000"
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
         ],
         "GUILD_HEADER_TEXT_SHADOW": [
-            "#0a2848",
-            "#dcddde",
-            "#000000"
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
         ],
         "HEADER_PRIMARY": [
             "#dcddde",
-            "#0a2848",
+            "#ffffff",
             "#dcddde"
         ],
         "HEADER_SECONDARY": [
             "#ffffff",
             "#ffffff",
             "#ffffff"
-        ]
-
+        ],
         "INFO_DANGER_BACKGROUND": [
             "#0a2848",
             "#dcddde",
@@ -192,7 +190,7 @@
         ],
         "INFO_HELP_TEXT": [
             "#dcddde",
-            "#0a2848",
+            "#ffffff",
             "#ffffff"
         ],
         "INFO_POSITIVE_BACKGROUND": [
@@ -207,7 +205,7 @@
         ],
         "INFO_POSITIVE_TEXT": [
             "#dcddde",
-            "#0a2848",
+            "#ffffff",
             "#dcddde"
         ],
         "INFO_WARNING_BACKGROUND": [
@@ -222,9 +220,9 @@
         ],
         "INFO_WARNING_TEXT": [
             "#dcddde",
-            "#0a2848",
+            "#ffffff",
             "#dcddde"
-        ]
+        ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff",
             "#ffffff",
@@ -250,30 +248,10 @@
             "#ffffff0f",
             "#ffffff0f"
         ],
-        "INTERACTIVE_ACTIVE": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#061428",
-            "#665c54",
-            "#061428"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#3f414c",
-            "#3f414c",
-            "#3f414c"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#81b6ef",
-            "#81b6ef",
-            "#81b6ef"
-        ],
         "LOGO_PRIMARY": [
-            "#83a598",
-            "#076678",
-            "#83a598"
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
         ],
         "MODAL_FOOTER_BACKGROUND": [
             "#0a2848",
@@ -296,66 +274,86 @@
             "#061428"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#061428",
-            "#7eb3f0",
+            "#ffffff33",
+            "#ffffff33",
+            "#ffffff33"
+        ],
+        "SCROLLBAR_THIN_BACKGROUND": [
+            "#000000",
+            "#000000",
             "#000000"
         ],
-        "STATUS_DANGER_BACKGROUND": [
-            "#fb4934",
-            "#9d0006",
-            "#fb4934"
+        "SEPARATOR_PRIMARY": [
+            "#ffffff1a",
+            "#ffffff1a",
+            "#ffffff1a"
         ],
-        "STATUS_DANGER_TEXT": [
+        "SEPARATOR_SECONDARY": [
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
+        ],
+        "STATUS_GREEN": [
             "#83a598",
-            "#076678",
+            "#83a598",
             "#83a598"
         ],
-        "STATUS_POSITIVE_BACKGROUND": [
-            "#689d6a",
-            "#427b58",
-            "#689d6a"
-        ],
-        "STATUS_POSITIVE_TEXT": [
-            "#dcddde",
-            "#0a2848",
-            "#dcddde"
-        ],
-        "STATUS_WARNING_BACKGROUND": [
-            "#fab387",
-            "#fab387",
-            "#fab387"
-        ],
-        "STATUS_WARNING_TEXT": [
+        "STATUS_RED": [
             "#fb4934",
-            "#9d0006",
+            "#fb4934",
             "#fb4934"
         ],
-        "TEXTBOX_MARKDOWN_SYNTAX": [
-            "#076678",
-            "#076678",
-            "#076678"
+        "STATUS_YELLOW": [
+            "#fabd2f",
+            "#fabd2f",
+            "#fabd2f"
         ],
-        "TEXT_DANGER": [
-            "#fb4934",
-            "#9d0006",
-            "#fb4934"
-        ],
-        "TEXT_LINK": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
-        ],
-        "TEXT_LINK_LOW_SATURATION": [
+        "TEXT_NORMAL": [
             "#dcddde",
-            "#0a2848",
+            "#dcddde",
             "#dcddde"
         ],
         "TEXT_MUTED": [
-            "#969696",
-            "#969696",
-            "#969696"
+            "#ffffff80",
+            "#ffffff80",
+            "#ffffff80"
         ],
-        "TEXT_NORMAL": [
+        "TEXT_LINK": [
+            "#83a598",
+            "#83a598",
+            "#83a598"
+        ],
+        "TEXT_POSITIVE": [
+            "#b8bb26",
+            "#b8bb26",
+            "#b8bb26"
+        ],
+        "TEXT_WARNING": [
+            "#fabd2f",
+            "#fabd2f",
+            "#fabd2f"
+        ],
+        "TEXT_DANGER": [
+            "#fb4934",
+            "#fb4934",
+            "#fb4934"
+        ],
+        "TEXT_BRAND": [
+            "#83a598",
+            "#83a598",
+            "#83a598"
+        ],
+        "TEXT_ACCENT": [
+            "#bdae93",
+            "#bdae93",
+            "#bdae93"
+        ],
+        "TOOLTIP_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "TOOLTIP_TEXT": [
             "#ffffff",
             "#ffffff",
             "#ffffff"

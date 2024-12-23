@@ -1,0 +1,203 @@
+{
+    "name": "Clear-View2",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "authors": [
+        {
+            "name": "Mahroom",
+            "id": "466968658997149706"
+        }
+    ],
+    "semanticColors": {
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#04122e",
+            "#04122e",
+            "#04122e"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#ffffff1a",
+            "#ffffff1a",
+            "#ffffff1a"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#061428",
+            "#061428",
+            "#061428"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#061428",
+            "#061428",
+            "#061428"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ffffff1a",
+            "#ffffff1a",
+            "#ffffff1a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#ffffff26",
+            "#ffffff26",
+            "#ffffff26"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#ffffff1a",
+            "#ffffff1a",
+            "#ffffff1a"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ffffff33",
+            "#ffffff33",
+            "#ffffff33"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#061428",
+            "#061428",
+            "#061428"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#242437",
+            "#242437",
+            "#242437"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#04122e",
+            "#04122e",
+            "#04122e"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#ffffff99",
+            "#ffffff99",
+            "#ffffff99"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff4d",
+            "#ffffff4d",
+            "#ffffff4d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#00000099",
+            "#00000099",
+            "#00000099"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#ffffffcc",
+            "#ffffffcc",
+            "#ffffffcc"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ffffffcc",
+            "#ffffffcc",
+            "#ffffffcc"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#ffffff40",
+            "#ffffff40",
+            "#ffffff40"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffffb3",
+            "#ffffffb3",
+            "#ffffffb3"
+        ],
+        "INPUT_BACKGROUND": [
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
+        ],
+        "TEXT_LINK": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#969696",
+            "#969696",
+            "#969696"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_130": "#ffffffcc",
+        "PRIMARY_200": "#ffffffb3",
+        "PRIMARY_230": "#ffffff99",
+        "PRIMARY_300": "#ffffff80",
+        "PRIMARY_360": "#ffffff66",
+        "PRIMARY_400": "#ffffff4d",
+        "PRIMARY_460": "#ffffff33",
+        "PRIMARY_500": "#ffffff26",
+        "PRIMARY_560": "#ffffff1a",
+        "PRIMARY_600": "#ffffff0f",
+        "PRIMARY_630": "#ffffff0a",
+        "PRIMARY_660": "#ffffff05",
+        "PRIMARY_700": "#ffffff03",
+        "PRIMARY_800": "#ffffff02",
+        "PRIMARY_900": "#ffffff01",
+        "BRAND_260": "#ffffff",
+        "BRAND_360": "#ffffffcc",
+        "BRAND_500": "#ffffff99",
+        "BRAND_560": "#ffffff80"
+    },
+    "background": {
+        "url": "https://mfiles.alphacoders.com/100/1007664.jpeg",
+        "alpha": 0.63,
+        "blur": 2
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#ffffff4d",
+            "ic_mic_muted_neutral": "#ffffff4d",
+            "ic_soundboard": "#ffffff4d",
+            "ic_soundboard_muted": "#ffffff4d",
+            "ic_video": "#ffffff4d",
+            "ic_video_disabled": "#ffffff4d"
+        },
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}

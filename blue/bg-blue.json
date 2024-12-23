@@ -157,26 +157,6 @@
             "#ffffff",
             "#ffffff",
             "#ffffff"
-        ],
-        "MESSAGE_BACKGROUND": [
-            "#ffffff0a",
-            "#ffffff0a",
-            "#ffffff0a"
-        ],
-        "MESSAGE_HOVER_BACKGROUND": [
-            "#ffffff14",
-            "#ffffff14",
-            "#ffffff14"
-        ],
-        "MESSAGE_BORDER": [
-            "#ffffff1a",
-            "#ffffff1a",
-            "#ffffff1a"
-        ],
-        "MESSAGE_BORDER_HOVER": [
-            "#ffffff26",
-            "#ffffff26",
-            "#ffffff26"
         ]
     },
     "rawColors": {
@@ -199,11 +179,7 @@
         "BRAND_260": "#ffffff",
         "BRAND_360": "#ffffffcc",
         "BRAND_500": "#ffffff99",
-        "BRAND_560": "#ffffff80",
-        "MESSAGE_BOX_BACKGROUND": "#ffffff0a",
-        "MESSAGE_BOX_HOVER": "#ffffff14",
-        "MESSAGE_BOX_BORDER": "#ffffff1a",
-        "MESSAGE_BOX_BORDER_HOVER": "#ffffff26"
+        "BRAND_560": "#ffffff80"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/purple/vanna1.PNG",

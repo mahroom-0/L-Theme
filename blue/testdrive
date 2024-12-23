@@ -182,9 +182,7 @@
         "BRAND_560": "#ffffff80"
     },
     "background": {
-        "url": "https://mfiles.alphacoders.com/100/1007664.jpeg",
-        "alpha": 0.63,
-        "blur": 2
+        "url": "https://mfiles.alphacoders.com/100/1007664.jpeg"
     },
     "plus": {
         "version": 0,

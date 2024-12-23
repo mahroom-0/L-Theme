@@ -114,9 +114,9 @@
             "#ffffffcc"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#969696",
-            "#969696",
-            "#969696"
+            "#ffffff0f",
+            "#ffffff0f",
+            "#ffffff0f"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff",
@@ -149,9 +149,9 @@
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#ffffff99",
-            "#ffffff99",
-            "#ffffff99"
+            "#969696",
+            "#969696",
+            "#969696"
         ],
         "TEXT_NORMAL": [
             "#ffffff",

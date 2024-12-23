@@ -1,5 +1,5 @@
 {
-    "name": "Clear-View-v2",
+    "name": "Clear-View",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
     "authors": [
         {
@@ -182,8 +182,9 @@
         "BRAND_560": "#ffffff80"
     },
     "background": {
-        "url": "https://mfiles.alphacoders.com/100/1007664.jpeg",
-
+        "url": "https://raw.githubusercontent.com/mahroom-0/L-Theme/refs/heads/main/purple/vanna1.PNG",
+        "alpha": 0.63,
+        "blur": 2
     },
     "plus": {
         "version": 0,

@@ -1,6 +1,6 @@
 {
     "name": "PitchBlack-Adaptive",
-    "description": "Clear Vision with adaptive text colors for both light and dark backgrounds",
+    "description": "Clear Vision with adaptive text colors and proper timestamp display",
     "authors": [
         {
             "name": "Mahroom",
@@ -112,6 +112,21 @@
             "#ffffff40",
             "#00000040",
             "#ffffff40"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ],
+        "TIMESTAMP_TEXT": [
+            "#dcddde",
+            "#2e2e2e",
+            "#dcddde"
         ]
     },
     "rawColors": {

@@ -1,6 +1,6 @@
 {
     "name": "PitchBlack-Adaptive",
-    "description": "Clear Vision with adaptive text colors and proper timestamp display",
+    "description": "Clear Vision with adaptive text colors and visible timestamps",
     "authors": [
         {
             "name": "Mahroom",
@@ -114,19 +114,19 @@
             "#ffffff40"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "#ffffff00",
+            "#00000000",
+            "#ffffff00"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "#ffffff00",
+            "#00000000",
+            "#ffffff00"
         ],
-        "TIMESTAMP_TEXT": [
-            "#dcddde",
-            "#2e2e2e",
-            "#dcddde"
+        "EMBED_TIMESTAMP": [
+            "#ffffffcc",
+            "#000000cc",
+            "#ffffffcc"
         ]
     },
     "rawColors": {
